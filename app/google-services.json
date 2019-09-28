@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058138000719",
+    "firebase_url": "https://techsparse-cb68f.firebaseio.com",
+    "project_id": "techsparse-cb68f",
+    "storage_bucket": "techsparse-cb68f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058138000719:android:e8e8fe18fb68afd014c93a",
+        "android_client_info": {
+          "package_name": "com.example.techsparse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058138000719-ose9pqui81jq0k70of91ernr4087g9n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-RzJrPkaOofhFXhBvyNlCa0OY5LWIxeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058138000719-ose9pqui81jq0k70of91ernr4087g9n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
